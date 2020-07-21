@@ -1,5 +1,5 @@
 {
-  "name": "mafftor/laravel-file-manager",
+  "name": "dyanakiev/laravel-file-manager",
   "description": "The file manager intended for using Laravel with CKEditor / TinyMCE / Colorbox",
   "license": "MIT",
   "keywords": [
